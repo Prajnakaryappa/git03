@@ -11,5 +11,6 @@ public class const
     {
         const c= new const();
         c.const();
+        c.add();
     }
 }
